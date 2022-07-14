@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.32bed796.css",
+    "main.js": "./static/js/main.7e230e25.js",
+    "static/media/banner-bg.jpg": "./static/media/banner-bg.ef424a396f6be282227f.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "./static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "./static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "./static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/bootstrap-icons.woff?": "./static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/bootstrap-icons.woff2?": "./static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "./static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "./static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "./index.html",
+    "static/media/arrow_left.svg": "./static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
+    "static/media/arrow_right.svg": "./static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
+    "main.32bed796.css.map": "./static/css/main.32bed796.css.map",
+    "main.7e230e25.js.map": "./static/js/main.7e230e25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32bed796.css",
+    "static/js/main.7e230e25.js"
+  ]
+}
