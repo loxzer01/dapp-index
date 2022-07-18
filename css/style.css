@@ -214,6 +214,7 @@ p,h1,h2,h3,h4,h5,h6{
     padding: 10px 22px;
     border-radius: 50px;
     transition: 0.5s;
+    cursor: pointer;
 }
 
 .btn-2{
@@ -221,6 +222,7 @@ p,h1,h2,h3,h4,h5,h6{
     padding: 12px 24px;
     border-radius: 50px;
     background-color: #314da1;
+    cursor: pointer;
 }
 .btn-3{
     color: rgba(255, 255, 255, 0.733)!important;
@@ -228,6 +230,7 @@ p,h1,h2,h3,h4,h5,h6{
     border-radius: 0;
     background-color: #292a3f;
     transition: .5s;
+    cursor: pointer;
 }
 .btn-4{
     color: rgba(255, 255, 255, 0.733)!important;
@@ -235,6 +238,7 @@ p,h1,h2,h3,h4,h5,h6{
     border-radius: 5px;
     background-color: #f52552;
     transition: .5s;
+    cursor: pointer;
 }
 .btn-5{
     color: rgba(255, 255, 255, 0.733)!important;
@@ -242,6 +246,7 @@ p,h1,h2,h3,h4,h5,h6{
     border-radius: 5px;
     background-color: #2528f5;
     transition: .5s;
+    cursor: pointer;
 }
 .btn-3:hover{
     background-color: #314da1!important;
@@ -301,6 +306,15 @@ p,h1,h2,h3,h4,h5,h6{
 .investment{
     background-color: #090a1a;
 }
+/***********Landing************/
+.information{
+    /*background-color: #090a1a;*/
+    background-color: rgba(9, 10, 26, 0.966)
+}
+.l-h{
+    align-items: center;
+    gap: 1rem;
+}
 /*MediaQuery
 @media (min-width:576px){
 	.lpo-r{
@@ -317,3 +331,8 @@ p,h1,h2,h3,h4,h5,h6{
     border-radius: 10px;
     margin: 53px -25px;
 }*/
+@media screen and (max-width: 768px) {
+    .disable{
+        display: none;
+    }
+}
