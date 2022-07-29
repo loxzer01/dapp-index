@@ -29,7 +29,7 @@ function changeTime(index){
 }
 calculateinput.addEventListener('input',function(e){
     let value = (e.target.value).replace(/[^0-9.]/g, '');
-    let free = (value * 22 / 10000) * 28/100;
-    let result = (value * 22 / 10000)-free;
+    let free = (value * 12 / 10000) * 28/100;
+    let result = (value * 12 / 10000)-free;
     resultC.innerHTML = (result * multNumber).toFixed(2);
 })
